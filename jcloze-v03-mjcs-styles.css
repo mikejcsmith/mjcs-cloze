@@ -1,0 +1,97 @@
+    
+    .major-page-elements {
+        padding: 10px 20px;
+        border: 1px #9440D5 solid;
+        border-radius: 10px;
+        
+        webkit-box-shadow: inset 0px 0px 10px 0px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    inset 0px 0px 10px 0px rgba(50, 50, 50, 0.75);
+box-shadow:         inset 0px 0px 10px 0px rgba(50, 50, 50, 0.75);
+    }
+    
+    .video-page-elements {
+
+    }
+    
+    .font-large {
+        font-family: Verdana, Geneva, sans-serif; 
+        font-size: 1.2em;
+    }
+    
+    
+    
+    .cloze-help {
+        font-family: Verdana, Geneva, sans-serif; 
+        font-size: 1em;
+            border: 1px blue dashed;
+            border-radius: 3px; 
+            margin: 3px 10px 3px 10px;
+            padding: 3px 3px 3px 3px;
+            color: blue;   
+            background-color: #fffb73;         
+    }
+    
+    .cloze-set {
+    	position: relative;
+    }
+    
+    .cloze-hint p {
+        
+    }
+    
+    .cloze-controls {
+    	
+    	display: none;
+    }
+    
+    .cloze-explanation p {
+    }
+    
+    .cloze-help {
+            border: 1px red solid;
+        
+    }
+    
+        .red-border{
+            border: 1px red solid;
+            padding: 0px 3px 0px 3px;
+            
+            -webkit-box-shadow:  0px 0px 2px 1px rgba(240,15,0,1);
+-moz-box-shadow:  0px 0px 2px 1px rgba(240,15,0,1);
+box-shadow:  0px 0px 2px 1px rgba(240,15,0,1);
+
+        }
+        .blue-border {
+            border: 1px blue dashed;
+            padding: 0px 3px 0px 3px;            
+        }
+        
+        .green-border{
+            border: 1px green solid;
+            padding: 0px 3px 0px 3px;
+            
+            -webkit-box-shadow:  0px 0px 2px 1px rgba(0,255,0,1);
+            -moz-box-shadow:  0px 0px 2px 1px rgba(0,255,0,1);
+            box-shadow:  0px 0px 2px 1px rgba(0,255,0,1);
+            
+        }
+        .cloze-hide {
+            display:none;
+        }
+        .cloze-width-100-percent {
+        	width: 100%;
+        }
+
+        
+	.position-normal {
+		position: static;
+		left: 10px;
+		top: 10px;
+	}  
+	
+	.drag-highlight {
+        webkit-box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 250, 0.75);
+-moz-box-shadow:    inset 0px 0px 10px 0px rgba(0, 0, 250, 0.75);
+box-shadow:         inset 0px 0px 10px 0px rgba(0, 0, 250, 0.75);
+    }
+	}
